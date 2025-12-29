@@ -1,0 +1,77 @@
+[
+  {
+    "section": "Watchlist & News Alerts",
+    "items": [
+      {
+        "question": "How do I follow a new company?",
+        "answer": "Use the search bar in the Watchlist tab to find a company by its name or symbol. Click to add it to your tracking list."
+      },
+      {
+        "question": "What is the 'Personalized' news feed?",
+        "answer": "This feed only shows news for the companies you have manually added to your Watchlist, keeping your alerts relevant."
+      },
+      {
+        "question": "How many companies can I track?",
+        "answer": "You can track up to 10 companies at a time. This limit ensures your alert feed remains clean and manageable."
+      },
+      {
+        "question": "How can I tell when news was released?",
+        "answer": "Each news card shows a time indicator (like '2m ago') that updates in real-time to show you how fresh the info is."
+      },
+      {
+        "question": "How do I stop tracking a company?",
+        "answer": "Click the 'X' button on any company in your Watchlist to remove it and stop receiving alerts for that specific stock."
+      }
+    ]
+  },
+  {
+    "section": "AI Chatbot Assistant",
+    "items": [
+      {
+        "question": "What can the AI help me with?",
+        "answer": "The AI can summarize complex financial reports, explain market jargon, and give insights into general market trends."
+      },
+      {
+        "question": "What does 'ANALYZING' mean?",
+        "answer": "The AI is currently processing your question against live data. It usually takes a few seconds to provide a complete answer."
+      },
+      {
+        "question": "How do I start a new conversation?",
+        "answer": "Click 'New Chat' at the top of the window to clear the previous discussion and start asking about a new topic."
+      },
+      {
+        "question": "Is the AI response real-time?",
+        "answer": "Yes, the AI is designed to look at the latest system information to answer your questions accurately."
+      },
+      {
+        "question": "What if the AI takes more than a minute?",
+        "answer": "If processing takes too long, the system will notify you. You can wait or try rephrasing your question for a faster response."
+      }
+    ]
+  },
+  {
+    "section": "Ticker Extractor Tool",
+    "items": [
+      {
+        "question": "How does the extractor work?",
+        "answer": "Paste any text—like a news article—into the box and click 'Analyze'. It finds every company name mentioned automatically."
+      },
+      {
+        "question": "What does the Confidence score mean?",
+        "answer": "It shows how certain the AI is that the found word is actually a stock ticker. High percentages mean high reliability."
+      },
+      {
+        "question": "Can I add all found companies to my tracker?",
+        "answer": "Yes! Simply click '+ Add All to Watchlist' to start receiving alerts for every company identified in your text."
+      },
+      {
+        "question": "Can I paste very long articles?",
+        "answer": "Yes, the tool is designed to handle large amounts of text to ensure no company mentions are missed in long reports."
+      },
+      {
+        "question": "What if no companies are listed after analysis?",
+        "answer": "If the text doesn't contain recognizable company names or symbols, the tool will let you know nothing was found."
+      }
+    ]
+  }
+]
